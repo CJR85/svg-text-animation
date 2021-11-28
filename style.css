@@ -17,3 +17,9 @@ svg {
   font-size: 150px;
   padding-top: 11%;
 }
+
+.copy {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 3px;
+}
